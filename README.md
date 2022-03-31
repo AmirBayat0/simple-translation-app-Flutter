@@ -1,6 +1,6 @@
 # Simple translation application using Flutter
 ## Description
-Flexz Translator just for fun
+Flexz Translator - just for fun
 
 ## Preview
 ![Untitled Project](https://user-images.githubusercontent.com/91388754/160574714-93994765-dff5-4f41-8f26-6ebfa90f20bd.gif)
